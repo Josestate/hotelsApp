@@ -1,0 +1,14 @@
+.cityFilter_container{
+    padding: 20px;
+    .cityList_container{
+        padding: 0;
+        list-style: none;
+        li{
+            padding: 8px 5px;
+            border-radius: 5px;
+        }:hover{
+            background-color: rgb(165, 42, 42);
+            color: #fff;
+        }
+    }
+}
